@@ -3,3 +3,18 @@
 ./a 12  Fibonacci No. is 144
 
 ./a 27  Fibonacci No. is 196418
+
+
+Bonus:
+
+ ./a 0
+Fibonacci No. is 0
+
+/a 1
+Fibonacci No. is 2
+
+./a 2
+Fibonacci No. is 8
+
+./a 3
+Fibonacci No. is 34
