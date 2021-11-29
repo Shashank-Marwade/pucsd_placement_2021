@@ -1,0 +1,15 @@
+./a 50
+Partition at 6
+Minimum difference is 2526
+
+./a 1000
+Partition at 6
+Minimum difference is 1002876
+
+./a 10000
+Partition at 6
+Minimum difference is 100029876
+
+./a 100000
+Partition at 6
+Minimum difference is 1410365284
