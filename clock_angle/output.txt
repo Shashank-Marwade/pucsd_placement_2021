@@ -1,0 +1,20 @@
+Enter Time HH MM: 09 00
+Angle is 90.000000
+
+Enter Time HH MM: 05 00
+Angle is 150.000000
+
+Enter Time HH MM: 08 45
+Angle is 7.500000
+
+Enter Time HH MM SS: 09 00 30
+Angle is 2.500000
+
+Enter Time HH MM SS: 03 30 45
+Angle is 176.250000
+
+Enter Time HH MM SS: 05 00 50
+Angle is 4.166667
+
+Enter Time HH MM SS: 08 45 05
+Angle is 90.416656
