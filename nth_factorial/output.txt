@@ -1,0 +1,5 @@
+./a 0   Fibonacci No. is 0
+
+./a 12  Fibonacci No. is 144
+
+./a 27  Fibonacci No. is 196418
